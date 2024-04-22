@@ -2,7 +2,7 @@ name: Damage Calculation Test
 
 on:
   push:
-    branches: [ main-2023 ]
+    branches: [ main-2024 ]
 
 jobs:
   build:
